@@ -1,0 +1,29 @@
+h1{
+	  color: darkorange;
+
+}
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid black;
+}
+h2{
+	color: drakblack;
+	margin-left: 50%;
+}
+button{
+	background-color: green;
+	margin-left: 50%;
+
+}
+label{
+	margin-left:10%;
+	font-size: 22px;
+}
+input{
+	margin-left:10%;
+	font-size:18px ;
+}
+h2{
+	color: royalblue;
+}
